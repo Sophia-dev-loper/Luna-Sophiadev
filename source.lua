@@ -1,6 +1,6 @@
 --[[
 
-Luna Interface Suite
+SophiaDeveloper UI
 by Nebula Softworks
 
 Main Credits
@@ -2226,7 +2226,7 @@ function Luna:CreateWindow(WindowSettings)
 		Subtitle = "",
 		LogoID = "6031097225",
 		LoadingEnabled = true,
-		LoadingTitle = "Luna Interface Suite",
+		LoadingTitle = "SophiaDeveloper UI",
 		LoadingSubtitle = "by SophiaDeveloper",
 
 		ConfigSettings = {},
@@ -4858,7 +4858,7 @@ function Luna:CreateWindow(WindowSettings)
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 					TweenService:Create(Toggle.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 					Toggle.Title.Text = "Callback Error"
-					print("Luna Interface Suite | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
+					print("SophiaDeveloper UI | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
 					wait(0.5)
 					Toggle.Title.Text = ToggleSettings.Name
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -4885,7 +4885,7 @@ function Luna:CreateWindow(WindowSettings)
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 					TweenService:Create(Toggle.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 					Toggle.Title.Text = "Callback Error"
-					print("Luna Interface Suite | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
+					print("SophiaDeveloper UI | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
 					wait(0.5)
 					Toggle.Title.Text = ToggleSettings.Name
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -4929,7 +4929,7 @@ function Luna:CreateWindow(WindowSettings)
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 					TweenService:Create(Toggle.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
 					Toggle.Title.Text = "Callback Error"
-					print("Luna Interface Suite | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
+					print("SophiaDeveloper UI | "..ToggleSettings.Name.." Callback Error " ..tostring(Response))
 					wait(0.5)
 					Toggle.Title.Text = ToggleSettings.Name
 					TweenService:Create(Toggle, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5050,7 +5050,7 @@ function Luna:CreateWindow(WindowSettings)
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 							TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 							Bind.Title.Text = "Callback Error"
-							print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+							print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 							wait(0.5)
 							Bind.Title.Text = BindSettings.Name
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5079,7 +5079,7 @@ function Luna:CreateWindow(WindowSettings)
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 							TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 							Bind.Title.Text = "Callback Error"
-							print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+							print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 							wait(0.5)
 							Bind.Title.Text = BindSettings.Name
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5099,7 +5099,7 @@ function Luna:CreateWindow(WindowSettings)
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 										TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 										Bind.Title.Text = "Callback Error"
-										print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+										print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 										wait(0.5)
 										Bind.Title.Text = BindSettings.Name
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5116,7 +5116,7 @@ function Luna:CreateWindow(WindowSettings)
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 										TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 										Bind.Title.Text = "Callback Error"
-										print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+										print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 										wait(0.5)
 										Bind.Title.Text = BindSettings.Name
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5277,7 +5277,7 @@ function Luna:CreateWindow(WindowSettings)
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 							TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 							Bind.Title.Text = "Callback Error"
-							print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+							print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 							wait(0.5)
 							Bind.Title.Text = BindSettings.Name
 							TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5297,7 +5297,7 @@ function Luna:CreateWindow(WindowSettings)
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 										TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 										Bind.Title.Text = "Callback Error"
-										print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+										print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 										wait(0.5)
 										Bind.Title.Text = BindSettings.Name
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5314,7 +5314,7 @@ function Luna:CreateWindow(WindowSettings)
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 										TweenService:Create(Bind.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 										Bind.Title.Text = "Callback Error"
-										print("Luna Interface Suite | "..BindSettings.Name.." Callback Error " ..tostring(Response))
+										print("SophiaDeveloper UI | "..BindSettings.Name.." Callback Error " ..tostring(Response))
 										wait(0.5)
 										Bind.Title.Text = BindSettings.Name
 										TweenService:Create(Bind, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5439,7 +5439,7 @@ function Luna:CreateWindow(WindowSettings)
 							TweenService:Create(Input, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 							TweenService:Create(Input.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 							Input.Title.Text = "Callback Error"
-							print("Luna Interface Suite | "..InputSettings.Name.." Callback Error " ..tostring(Response))
+							print("SophiaDeveloper UI | "..InputSettings.Name.." Callback Error " ..tostring(Response))
 							wait(0.5)
 							Input.Title.Text = InputSettings.Name
 							TweenService:Create(Input, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5480,7 +5480,7 @@ function Luna:CreateWindow(WindowSettings)
 						TweenService:Create(Input, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 						TweenService:Create(Input.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 						Input.Title.Text = "Callback Error"
-						print("Luna Interface Suite | "..InputSettings.Name.." Callback Error " ..tostring(Response))
+						print("SophiaDeveloper UI | "..InputSettings.Name.." Callback Error " ..tostring(Response))
 						wait(0.5)
 						Input.Title.Text = InputSettings.Name
 						TweenService:Create(Input, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5599,7 +5599,7 @@ function Luna:CreateWindow(WindowSettings)
 					TweenService:Create(Dropdown, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 					TweenService:Create(Dropdown.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 					Dropdown.Title.Text = "Callback Error"
-					print("Luna Interface Suite | "..DropdownSettings.Name.." Callback Error " ..tostring(Response))
+					print("SophiaDeveloper UI | "..DropdownSettings.Name.." Callback Error " ..tostring(Response))
 					wait(0.5)
 					Dropdown.Title.Text = DropdownSettings.Name
 					TweenService:Create(Dropdown, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -5939,7 +5939,7 @@ function Luna:CreateWindow(WindowSettings)
 					TweenService:Create(ColorPicker, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundColor3 = Color3.fromRGB(85, 0, 0)}):Play()
 					TweenService:Create(ColorPicker.UIStroke, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
 					ColorPicker.Title.Text = "Callback Error"
-					print("Luna Interface Suite | "..ColorPickerSettings.Name.." Callback Error " ..tostring(Response))
+					print("SophiaDeveloper UI | "..ColorPickerSettings.Name.." Callback Error " ..tostring(Response))
 					wait(0.5)
 					ColorPicker.Title.Text = ColorPickerSettings.Name
 					TweenService:Create(ColorPicker, TweenInfo.new(0.7, Enum.EasingStyle.Exponential), {BackgroundTransparency = 0.5}):Play()
@@ -6752,7 +6752,7 @@ if isStudio then
 		Subtitle = "Test",
 		LogoID = "6031097225",
 		LoadingEnabled = true,
-		LoadingTitle = "Luna Interface Suite",
+		LoadingTitle = "SophiaDeveloper UI",
 		LoadingSubtitle = "by Nebula Softworks",
 		KeySystem = true,
 		KeySettings = {
@@ -6769,7 +6769,7 @@ if isStudio then
 		Title = "Welcome to Luna",
 		Icon = "sparkle",
 		ImageSource = "Material",
-		Content = "Welcome to the Luna Interface Suite. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website
+		Content = "Welcome to the SophiaDeveloper UI. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website
 	})
 
 	local Tabs = {
@@ -6944,7 +6944,7 @@ end
         Title = "Welcome to Luna",
         Icon = "sparkle",
         ImageSource = "Material",
-        Content = "Welcome to the Luna Interface Suite. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website
+        Content = "Welcome to the SophiaDeveloper UI. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website
     })
     t1:CreateSection()
     local btn = t1:CreateButton({Callback = "", Description = "This Is A Description"})
@@ -6956,7 +6956,7 @@ end
     end})
     t2:CreateLabel({Style = 3})
     t1:CreateParagraph({Text = "Single String"})
-    t1:CreateParagraph({Text = "Welcome to the Luna Interface Suite. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website})
+    t1:CreateParagraph({Text = "Welcome to the SophiaDeveloper UI. This Is an Amazing Quality Freemium UI Library For Roblox Exploiting Made By Nebula Softworks. Luna was Created in hopes of improving the standard of UI Library designs by being the golden standard for it. Luna Has Amazing Features like a key system, notification and perfection in aesthetics and design. So, What Are You Waiting For? Start Using Luna Today at " .. website})
     s = t2:CreateSlider({ Callback = function(v) print(v) end })	
     t1:CreateButton({ Callback = function()
         s:Set({Name = "new name", Callback = ""})
